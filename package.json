@@ -1,0 +1,9 @@
+{
+  "name": "api-go-rest",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "scripts": {
+    "start": "node your-script.js"
+}
+}
